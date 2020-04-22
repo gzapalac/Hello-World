@@ -1,3 +1,2 @@
 # Hello-World
-Test 
-Hello this is a test.
+This is a test of git with a simple program.
